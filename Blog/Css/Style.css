@@ -1,0 +1,56 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family:'Open Sans Condensed', sans-serif;
+}
+
+
+
+.contenuer{
+		width: 80%;
+		margin:0 auto;
+
+	
+}
+
+.title{
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+.textright{
+	float: right;
+	width: 50%;
+}
+
+.textright p{
+	margin: auto 30px;
+}
+
+
+.textleft{
+	float: left;
+	width: 50%;
+}
+
+.textleft p{
+	margin: auto 30px;
+}
+
+.end{
+	    text-align: center;
+    position: relative;
+    top: 80px;
+}
+
+
+
+.regis button{
+	        height: 40px;
+    background: #fff;
+    width: 140px;
+    /* text-align: center; */
+    box-shadow: 1px 3px 12px 2px;
+        margin-top: 13%;
+    margin-left: 43%;
+}
